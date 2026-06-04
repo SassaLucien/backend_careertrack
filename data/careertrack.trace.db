@@ -1,6 +1,0 @@
-2026-05-30 23:27:45.650178+01:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLNonTransientException: L'objet est déjà fermé
-The object is already closed [90007-224]
-2026-05-30 23:27:45.657900+01:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLNonTransientException: L'objet est déjà fermé
-The object is already closed [90007-224]
