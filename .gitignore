@@ -1,0 +1,5 @@
+target/
+data/
+src/main/
+README.md
+database.sql
